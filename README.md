@@ -1,4 +1,6 @@
 # fullPage.js
+
+<h1>Oh! Hello There</h1>
 ![preview](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/intro.png)
 ![compatibility](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/compatible.gif?v=2)
 
